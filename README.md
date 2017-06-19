@@ -3,9 +3,9 @@
 * [我的博客](http://blog.csdn.net/c406495762 "悬停显示")<br>
 * LeetCode<br>
 
-## Linked List
+## Linked List（链表）
 
-### Easy
+### Easy（难度：简单）
 
 * [21.Merge Two Sorted Lists](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Easy/21.Merge%20Two%20Sorted%20Lists "悬停显示")
 
@@ -23,13 +23,13 @@
 
 * [237.Delete Node in a Linked List](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Easy/237.Delete%20Node%20in%20a%20Linked%20List "悬停显示")
 
-### Medium
+### Medium（难度：中等）
 
 * [61.Rotate](Listhttps://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Medium/61.Rotate%20List "悬停显示")
 
-## Stack
+## Stack（栈）
 
-### Easy
+### Easy（难度：简单）
 
 * [20.Valid Parentheses](https://github.com/Jack-Cherish/LeetCode/tree/master/Stack/Easy/20.Valid%20Parentheses "悬停显示")
 
@@ -41,13 +41,13 @@
 
 * [496.Next Greater Element I](https://github.com/Jack-Cherish/LeetCode/tree/master/Stack/Easy/496.Next%20Greater%20Element%20I "悬停显示")
 
-### Medium
+### Medium（难度：中等）
 
 * [150.Evaluate Reverse Polish Notation](https://github.com/Jack-Cherish/LeetCode/tree/master/Stack/Medium/150.Evaluate%20Reverse%20Polish%20Notation "悬停显示")
 
-## String
+## String（字符串）
 
-### Easy
+### Easy（难度：简单）
 
 * [67.Add Binary](https://github.com/Jack-Cherish/LeetCode/tree/master/String/Easy/67.Add%20Binary "悬停显示")
 
