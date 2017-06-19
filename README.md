@@ -25,7 +25,7 @@
 
 ### Medium（难度：中等）
 
-* [61.Rotate](Listhttps://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Medium/61.Rotate%20List "悬停显示")
+* [61.Rotate](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Medium/61.Rotate%20List "悬停显示")
 
 ## Stack（栈）
 
