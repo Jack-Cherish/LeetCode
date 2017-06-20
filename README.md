@@ -55,6 +55,8 @@
 
 * [434.Number of Segments in a String](https://github.com/Jack-Cherish/LeetCode/tree/master/String/Easy/434.Number%20of%20Segments%20in%20a%20String "ĞüÍ£ÏÔÊ¾")
 
+* [520.Detect Capital](https://github.com/Jack-Cherish/LeetCode/tree/master/String/Easy/520.Detect%20Capital "ĞüÍ£ÏÔÊ¾")
+
 * [541.Reverse String II](https://github.com/Jack-Cherish/LeetCode/tree/master/String/Easy/541.Reverse%20String%20II "ĞüÍ£ÏÔÊ¾")
 
 * [557.Reverse Words in a String III](https://github.com/Jack-Cherish/LeetCode/tree/master/String/Easy/557.Reverse%20Words%20in%20a%20String%20III "ĞüÍ£ÏÔÊ¾")
