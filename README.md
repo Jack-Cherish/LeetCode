@@ -61,8 +61,11 @@
 
 * [557.Reverse Words in a String III](https://github.com/Jack-Cherish/LeetCode/tree/master/String/Easy/557.Reverse%20Words%20in%20a%20String%20III "悬停显示")
 
+## Tree（树）
 
+### Easy（难度：简单）
 
+* [111.Minimum Depth of Binary Tree](https://github.com/Jack-Cherish/LeetCode/tree/master/Tree/Easy/111.Minimum%20Depth%20of%20Binary%20Tree "悬停显示")
 
 
 
