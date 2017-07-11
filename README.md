@@ -7,7 +7,8 @@
 
 ### Easy（难度：简单）
 
-* [21.Merge Two Sorted Lists](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Easy/21.Merge%20Two%20Sorted%20Lists "悬停显示")\t\t\t[博客思路讲解](http://blog.csdn.net/c406495762/article/details/65449271 "悬停显示")
+* [21.Merge Two Sorted Lists](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Easy/21.Merge%20Two%20Sorted%20Lists "悬停显示")<br>
+  [博客思路讲解](http://blog.csdn.net/c406495762/article/details/65449271 "悬停显示")
 
 * [83.Remove Duplicates from Sorted List](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Easy/83.Remove%20Duplicates%20from%20Sorted%20List "悬停显示")\t\t\t[博客思路讲解(待更新)](http://blog.csdn.net/c406495762/article/details/55106317 "悬停显示")
 
