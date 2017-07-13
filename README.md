@@ -84,7 +84,7 @@
 
 ### Easy（难度：简单）
 
-* [111.Minimum Depth of Binary Tree](https://github.com/Jack-Cherish/LeetCode/tree/master/Tree/Easy/111.Minimum%20Depth%20of%20Binary%20Tree "悬停显示") 
+* [111.Minimum Depth of Binary Tree](https://github.com/Jack-Cherish/LeetCode/tree/master/Tree/Easy/111.Minimum%20Depth%20of%20Binary%20Tree "悬停显示")<br>
   [博客思路讲解](http://blog.csdn.net/c406495762/article/details/75043140 "悬停显示")
 
 
