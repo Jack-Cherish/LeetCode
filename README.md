@@ -87,6 +87,7 @@
 * [111.Minimum Depth of Binary Tree](https://github.com/Jack-Cherish/LeetCode/tree/master/Tree/Easy/111.Minimum%20Depth%20of%20Binary%20Tree "悬停显示")<br>
   [博客思路讲解](http://blog.csdn.net/c406495762/article/details/75043140 "悬停显示")
 
+* [235.Lowest Common Ancestor of a Binary Search Tree](https://github.com/Jack-Cherish/LeetCode/tree/master/Tree/Easy/235.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree "悬停显示")<br>
 
 
 
