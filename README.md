@@ -89,6 +89,9 @@
 
 * [235.Lowest Common Ancestor of a Binary Search Tree](https://github.com/Jack-Cherish/LeetCode/tree/master/Tree/Easy/235.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree "–¸Õ£œ‘ æ")<br>
 
+* [606.Construct String from Binary Tree](https://github.com/Jack-Cherish/LeetCode/tree/master/Tree/Easy/606.Construct%20String%20from%20Binary%20Tree "–¸Õ£œ‘ æ")<br>
+
+
 
 
 
