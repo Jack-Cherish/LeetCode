@@ -4,22 +4,15 @@
 * LeetCode，持续更新中！<br>
 
 | ID   |    Topic   | Difficulty |                  Title                   |                  Python                  |                   C++                    |                   Blog                   |
-| ---- | :--------: | :--------: | :----------------------------------------------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
-| 21   | Linked List| Easy | Merge Two Sorted Lists | no | [C++](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Easy/21.Merge%20Two%20Sorted%20Lists "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/65449271 "悬停显示") |
-
+| ---- | :--------: | :--------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
+| 21   | Linked List|    Easy    | Merge Two Sorted Lists                   | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/21.Merge%20Two%20Sorted%20Lists/Merge%20Two%20Sorted%20Lists.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/65449271 "悬停显示") |
+| 83   |            |            | Remove Duplicates from Sorted List       | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/83.Remove%20Duplicates%20from%20Sorted%20List/Remove%20Duplicates%20from%20Sorted%20List.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/55106317 "悬停显示") |
+| 141  |            |            | Linked List Cycle                        | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/141.Linked%20List%20Cycle/Linked%20List%20Cycle.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/55054315 "悬停显示") |
 
 ## Linked List（链表）
 
 ### Easy（难度：简单）
 
-* [21.Merge Two Sorted Lists](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Easy/21.Merge%20Two%20Sorted%20Lists "悬停显示")<br>
-  [博客思路讲解](http://blog.csdn.net/c406495762/article/details/65449271 "悬停显示")
-
-* [83.Remove Duplicates from Sorted List](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Easy/83.Remove%20Duplicates%20from%20Sorted%20List "悬停显示")<br>
-  [博客思路讲解(待更新)](http://blog.csdn.net/c406495762/article/details/55106317 "悬停显示")
-
-* [141.Linked List Cycle](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Easy/141.Linked%20List%20Cycle "悬停显示")<br>
-  [博客思路讲解(待更新)](http://blog.csdn.net/c406495762/article/details/55054315 "悬停显示")
 
 * [160.Intersection of Two Linked Lists](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Easy/160.Intersection%20of%20Two%20Linked%20Lists "悬停显示")<br>
   [博客思路讲解](http://blog.csdn.net/c406495762/article/details/56036016 "悬停显示")
