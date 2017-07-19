@@ -6,6 +6,7 @@
 | ID   |    Topic   |                  Title                   | Difficulty |                  Python                  |                   C++                    |                   Blog                   |
 | ---- | :--------: | :--------------------------------------: | :--------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 | 21   | Linked List| Merge Two Sorted Lists | Easy | no | [C++](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Easy/21.Merge%20Two%20Sorted%20Lists "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/65449271 "悬停显示") |
+| 21   |            | Merge Two Sorted Lists |      | no | [C++](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Easy/21.Merge%20Two%20Sorted%20Lists "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/65449271 "悬停显示") |
 
 ## Linked List（链表）
 
