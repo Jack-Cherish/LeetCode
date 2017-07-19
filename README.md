@@ -5,12 +5,19 @@
 
 | ID   |    Topic   | Difficulty |                  Title                   |                  Python                  |                   C++                    |                   Blog                   |
 | ---- | :--------: | :--------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
-| 21   | Linked List|    Easy    | Merge Two Sorted Lists                   | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/21.Merge%20Two%20Sorted%20Lists/Merge%20Two%20Sorted%20Lists.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/65449271 "悬停显示") |
-| 83   |            |            | Remove Duplicates from Sorted List       | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/83.Remove%20Duplicates%20from%20Sorted%20List/Remove%20Duplicates%20from%20Sorted%20List.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/55106317 "悬停显示") |
-| 141  |            |            | Linked List Cycle                        | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/141.Linked%20List%20Cycle/Linked%20List%20Cycle.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/55054315 "悬停显示") |
-| 160  |            |            | Intersection of Two Linked Lists         | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/160.Intersection%20of%20Two%20Linked%20Lists/Intersection%20of%20Two%20Linked%20Lists.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/56036016 "悬停显示") |
-| 203  |            |            | Remove Linked List Elements              | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/203.Remove%20Linked%20List%20Elements/Remove%20Linked%20List%20Elements.cpp "悬停显示") | no |
-| 206  |            |            | Reverse Linked List                      | no | [C 迭代](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/206.Reverse%20Linked%20List/Reverse%20Linked%20List-iteratively.c "悬停显示") [C 递归](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/206.Reverse%20Linked%20List/Reverse%20Linked%20List-recursively.c "悬停显示")| no |
+| 21   |     *      |      *     | Merge Two Sorted Lists                   | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/21.Merge%20Two%20Sorted%20Lists/Merge%20Two%20Sorted%20Lists.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/65449271 "悬停显示") |
+| 83   |     *      |      *     | Remove Duplicates from Sorted List       | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/83.Remove%20Duplicates%20from%20Sorted%20List/Remove%20Duplicates%20from%20Sorted%20List.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/55106317 "悬停显示") |
+| 141  |     *      |      *     | Linked List Cycle                        | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/141.Linked%20List%20Cycle/Linked%20List%20Cycle.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/55054315 "悬停显示") |
+| 160  |     *      |    Easy    | Intersection of Two Linked Lists         | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/160.Intersection%20of%20Two%20Linked%20Lists/Intersection%20of%20Two%20Linked%20Lists.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/56036016 "悬停显示") |
+| 203  | Linked List|      *     | Remove Linked List Elements              | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/203.Remove%20Linked%20List%20Elements/Remove%20Linked%20List%20Elements.cpp "悬停显示") | no |
+| 206  |     *      |      *     | Reverse Linked List                      | no | [C-迭代](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/206.Reverse%20Linked%20List/Reverse%20Linked%20List-iteratively.c "悬停显示") [C-递归](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/206.Reverse%20Linked%20List/Reverse%20Linked%20List-recursively.c "悬停显示")| [博客思路讲解](http://blog.csdn.net/c406495762/article/details/60884576 "悬停显示") |
+| 234  |     *      |      *     | Palindrome Linked List                   | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/234.Palindrome%20Linked%20List/Palindrome%20Linked%20List.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/64443419 "悬停显示") |
+| 237  |     *      |      *     | Delete Node in a Linked List             | no | [C](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/237.Delete%20Node%20in%20a%20Linked%20List/Delete%20Node%20in%20a%20Linked%20List.c "悬停显示") | no |
+| 61   |     *      |   Medium   | Rotate                                   | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Medium/61.Rotate%20List/Rotate%20List.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/65626314 "悬停显示") |
+
+
+
+
 
 
 
@@ -18,15 +25,6 @@
 
 ### Easy（难度：简单）
 
-
-
-
-
-* [206.Reverse Linked List](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Easy/206.Reverse%20Linked%20List "悬停显示")<br>
-  [博客思路讲解](http://blog.csdn.net/c406495762/article/details/60884576 "悬停显示")
-
-* [234.Palindrome Linked List](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Easy/234.Palindrome%20Linked%20List "悬停显示")<br>
-  [博客思路讲解](http://blog.csdn.net/c406495762/article/details/64443419 "悬停显示")
 
 * [237.Delete Node in a Linked List](https://github.com/Jack-Cherish/LeetCode/tree/master/Linked%20List/Easy/237.Delete%20Node%20in%20a%20Linked%20List "悬停显示")
 
