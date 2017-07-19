@@ -3,6 +3,10 @@
 * [我的博客](http://blog.csdn.net/c406495762 "悬停显示")<br>
 * LeetCode，持续更新中！<br>
 
+##题目列表
+
+* 列表根据主题、难度进行排序，符号"*"代表与上下表格合并。
+
 | ID   |    Topic   | Difficulty |                  Title                   |                  Python                  |                   C++                    |                   Blog                   |
 | ---- | :--------: | :--------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 | 21   |     *      |      *     | Merge Two Sorted Lists                   | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/21.Merge%20Two%20Sorted%20Lists/Merge%20Two%20Sorted%20Lists.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/65449271 "悬停显示") |
