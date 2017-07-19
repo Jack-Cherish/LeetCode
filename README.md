@@ -10,7 +10,7 @@
 | 141  |            |            | Linked List Cycle                        | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/141.Linked%20List%20Cycle/Linked%20List%20Cycle.cpp "ĞüÍ£ÏÔÊ¾") | [²©¿ÍË¼Â·½²½â](http://blog.csdn.net/c406495762/article/details/55054315 "ĞüÍ£ÏÔÊ¾") |
 | 160  |            |            | Intersection of Two Linked Lists         | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/160.Intersection%20of%20Two%20Linked%20Lists/Intersection%20of%20Two%20Linked%20Lists.cpp "ĞüÍ£ÏÔÊ¾") | [²©¿ÍË¼Â·½²½â](http://blog.csdn.net/c406495762/article/details/56036016 "ĞüÍ£ÏÔÊ¾") |
 | 203  |            |            | Remove Linked List Elements              | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/203.Remove%20Linked%20List%20Elements/Remove%20Linked%20List%20Elements.cpp "ĞüÍ£ÏÔÊ¾") | no |
-| 206  |            |            | Reverse Linked List                      | no | [C 1](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/206.Reverse%20Linked%20List/Reverse%20Linked%20List-iteratively.c "ĞüÍ£ÏÔÊ¾") [C 2](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/206.Reverse%20Linked%20List/Reverse%20Linked%20List-recursively.c "ĞüÍ£ÏÔÊ¾")| no |
+| 206  |            |            | Reverse Linked List                      | no | [C µü´ú](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/206.Reverse%20Linked%20List/Reverse%20Linked%20List-iteratively.c "ĞüÍ£ÏÔÊ¾") [C µİ¹é](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/206.Reverse%20Linked%20List/Reverse%20Linked%20List-recursively.c "ĞüÍ£ÏÔÊ¾")| no |
 
 
 
