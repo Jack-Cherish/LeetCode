@@ -24,6 +24,7 @@
 ### Stack
 
 | ID   | Difficulty |                  Title                   |                  Python                  |                   C++                    |                   Blog                   |
+| ---- | :--------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 | 20   |    Easy    | Valid Parentheses                        | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Stack/Easy/20.Valid%20Parentheses/Valid%20Parentheses.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/70154279 "悬停显示") |
 | 155  |      *     | Min Stack                                | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Stack/Easy/155.Min%20Stack/Min%20Stack.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/69372722 "悬停显示") |
 | 255  |      *     | Implement Stack using Queues             | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Stack/Easy/225.Implement%20Stack%20using%20Queues/Implement%20Stack%20using%20Queues.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/67656851 "悬停显示") |
@@ -34,6 +35,7 @@
 ### String
 
 | ID   | Difficulty |                  Title                   |                  Python                  |                   C++                    |                   Blog                   |
+| ---- | :--------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 | 150  |    Easy    | Add Binary                               | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/67.Add%20Binary/67.Add%20Binary.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/72519117 "悬停显示") |
 | 344  |      *     | Reverse String                           | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/344.Reverse%20String/Reverse%20String.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/70833096 "悬停显示") |
 | 434  |      *     | Number of Segments in a String           | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/434.Number%20of%20Segments%20in%20a%20String/Number%20of%20Segments%20in%20a%20String.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/71786453 "悬停显示") |
@@ -44,6 +46,7 @@
 ### Tree
 
 | ID   | Difficulty |                  Title                   |                  Python                  |                   C++                    |                   Blog                   |
+| ---- | :--------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 | 111  |    Easy    | Minimum Depth of Binary Tree             | [Py-1](https://github.com/Jack-Cherish/LeetCode/blob/master/Tree/Easy/111.Minimum%20Depth%20of%20Binary%20Tree/Minimum%20Depth%20of%20Binary%20Tree-1.py "悬停显示") [Py-2](https://github.com/Jack-Cherish/LeetCode/blob/master/Tree/Easy/111.Minimum%20Depth%20of%20Binary%20Tree/Minimum%20Depth%20of%20Binary%20Tree-2.py "悬停显示") | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Tree/Easy/111.Minimum%20Depth%20of%20Binary%20Tree/Minimum%20Depth%20of%20Binary%20Tree.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/75043140 "悬停显示") |
 | 235  |      *     | Lowest Common Ancestor of a Binary Search Tree | [Py-1](https://github.com/Jack-Cherish/LeetCode/blob/master/Tree/Easy/235.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree-1.py "悬停显示") [Py-2](https://github.com/Jack-Cherish/LeetCode/blob/master/Tree/Easy/235.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree-2.py "悬停显示") | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Tree/Easy/235.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp "悬停显示") | no |
 | 606  |    Easy    | Construct String from Binary Tree | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/Tree/Easy/606.Construct%20String%20from%20Binary%20Tree/Construct%20String%20from%20Binary%20Tree.py "悬停显示") | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Tree/Easy/606.Construct%20String%20from%20Binary%20Tree/Construct%20String%20from%20Binary%20Tree.cpp "悬停显示") | no |
