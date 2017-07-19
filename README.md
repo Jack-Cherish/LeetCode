@@ -7,7 +7,7 @@
 
 * 列表根据主题、难度进行排序，符号`*`代表与上下表格合并。
 
-### Linked List
+### Linked List(链表)
 
 | ID   | Difficulty |                  Title                   |                  Python                  |                   C++                    |                   Blog                   |
 | ---- | :--------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
@@ -21,7 +21,7 @@
 | 237  |    Easy    | Delete Node in a Linked List             | no | [C](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Easy/237.Delete%20Node%20in%20a%20Linked%20List/Delete%20Node%20in%20a%20Linked%20List.c "悬停显示") | no |
 | 61   |   Medium   | Rotate                                   | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Linked%20List/Medium/61.Rotate%20List/Rotate%20List.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/65626314 "悬停显示") |
 
-### Stack
+### Stack(栈)
 
 | ID   | Difficulty |                  Title                   |                  Python                  |                   C++                    |                   Blog                   |
 | ---- | :--------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
@@ -32,7 +32,7 @@
 | 496  |    Easy    | Next Greater Element I                   | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Stack/Easy/496.Next%20Greater%20Element%20I/Next%20Greater%20Element%20I.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/69359406 "悬停显示") |
 | 150  |   Medium   | Evaluate Reverse Polish Notation         | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Stack/Medium/150.Evaluate%20Reverse%20Polish%20Notation/Evaluate%20Reverse%20Polish%20Notation.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/70233695 "悬停显示") |
 
-### String
+### String(字符串)
 
 | ID   | Difficulty |                  Title                   |                  Python                  |                   C++                    |                   Blog                   |
 | ---- | :--------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
@@ -43,7 +43,7 @@
 | 541  |      *     | Reverse String II                        | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/541.Reverse%20String%20II/Reverse%20String%20II.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/70884683 "悬停显示") |
 | 557  |    Easy    | Reverse Words in a String III            | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/557.Reverse%20Words%20in%20a%20String%20III/Reverse%20Words%20in%20a%20String%20III.py "悬停显示") | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/557.Reverse%20Words%20in%20a%20String%20III/Reverse%20Words%20in%20a%20String%20III.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/73457057 "悬停显示") |
 
-### Tree
+### Tree(树)
 
 | ID   | Difficulty |                  Title                   |                  Python                  |                   C++                    |                   Blog                   |
 | ---- | :--------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
