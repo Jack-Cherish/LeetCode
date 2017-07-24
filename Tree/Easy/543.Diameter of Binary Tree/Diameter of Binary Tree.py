@@ -19,3 +19,4 @@ class Solution(object):
             return 1 + max(left, right)
         depth(root)
         return self.ans
+        
