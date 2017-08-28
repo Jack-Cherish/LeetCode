@@ -5,7 +5,7 @@
 
 ## 题目清单
 
-* 题目清单根据题目类型、难度进行排序，符号`*`代表与上下表格合并
+* 题目清单根据题目类型、难度进行排序，符号`*`代表与上下表格合并。
 
 ### Linked List(链表)
 
@@ -37,7 +37,7 @@
 | ID   | Difficulty |                  Title                   |                  Python                  |                   C++                    |                   Blog                   |
 | ---- | :--------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
 | 150  |    Easy    | Add Binary                               | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/67.Add%20Binary/Add%20Binary.py "悬停显示") | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/67.Add%20Binary/67.Add%20Binary.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/72519117 "悬停显示") |
-| 344  |      *     | Reverse String                           | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/344.Reverse%20String/Reverse%20String.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/70833096 "悬停显示") |
+| 344  |      *     | Reverse String                           | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/344.Reverse%20String/Reverse%20String.py "悬停显示") | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/344.Reverse%20String/Reverse%20String.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/70833096 "悬停显示") |
 | 434  |      *     | Number of Segments in a String           | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/434.Number%20of%20Segments%20in%20a%20String/Number%20of%20Segments%20in%20a%20String.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/71786453 "悬停显示") |
 | 520  |      *     | Detect Capital                           | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/520.Detect%20Capital/Detect%20Capital.py "悬停显示") | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/520.Detect%20Capital/Detect%20Capital.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/73495803 "悬停显示") |
 | 541  |      *     | Reverse String II                        | no | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/541.Reverse%20String%20II/Reverse%20String%20II.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/70884683 "悬停显示") |
