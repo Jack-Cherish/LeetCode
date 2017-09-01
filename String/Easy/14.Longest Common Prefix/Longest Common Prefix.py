@@ -24,6 +24,7 @@ class Solution:
             else:
                 break
         return str1[:i]
+                       
                                                                                                                                                         
     def longestCommonPrefix(self, strs):
         """
