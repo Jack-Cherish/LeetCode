@@ -5,7 +5,7 @@
 
 ## 题目清单
 
-* 题目清单根据题目类型、难度进行分类，符号`*`代表与上下表格合并。
+* 题目清单根据题目类型、难度进行排序，符号`*`代表与上下表格合并。
 
 ### Linked List(链表)
 
@@ -39,9 +39,10 @@
 | 13   |    Easy    | Roman to Integer                         | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/13.Roman%20to%20Integer/Roman%20to%20Integer.py "悬停显示") | no | [思路讲解](https://github.com/Jack-Cherish/LeetCode/tree/master/String/Easy/13.Roman%20to%20Integer "悬停显示") |
 | 14   |      *     | Longest Common Prefix                    | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/14.Longest%20Common%20Prefix/Longest%20Common%20Prefix.py "悬停显示") | no | [思路讲解](https://github.com/Jack-Cherish/LeetCode/tree/master/String/Easy/14.Longest%20Common%20Prefix "悬停显示") |
 | 38   |      *     | Count and Say                            | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/38.Count%20and%20Say/Count%20and%20Say.py "悬停显示") | no | [思路讲解](https://github.com/Jack-Cherish/LeetCode/tree/master/String/Easy/38.Count%20and%20Say "悬停显示") |
+| 125  |      *     | Valid Palindrome                     | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/125.Valid%20Palindrome.md "悬停显示") | no | [思路讲解](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/125.Valid%20Palindrome.md "悬停显示") |
 | 150  |      *     | Add Binary                               | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/67.Add%20Binary/Add%20Binary.py "悬停显示") | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/67.Add%20Binary/67.Add%20Binary.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/72519117 "悬停显示") |
 | 344  |      *     | Reverse String                           | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/344.Reverse%20String/Reverse%20String.py "悬停显示") | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/344.Reverse%20String/Reverse%20String.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/70833096 "悬停显示") |
-| 345  |      *     | Reverse Vowels of a String        	   | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/345.Reverse%20Vowels%20of%20a%20String.md "悬停显示") | no | [博客思路讲解](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/345.Reverse%20Vowels%20of%20a%20String.md "悬停显示") |
+| 345  |      *     | Reverse Vowels of a String        | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/345.Reverse%20Vowels%20of%20a%20String.md "悬停显示") | no | [博客思路讲解](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/345.Reverse%20Vowels%20of%20a%20String.md "悬停显示") |
 | 383  |      *     | Ransom Note                              | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/383.Ransom%20Note.md "悬停显示") | no | [思路讲解](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/383.Ransom%20Note.md "悬停显示") |
 | 434  |      *     | Number of Segments in a String           | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/434.Number%20of%20Segments%20in%20a%20String/Number%20of%20Segments%20in%20a%20String.py "悬停显示") | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/434.Number%20of%20Segments%20in%20a%20String/Number%20of%20Segments%20in%20a%20String.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/71786453 "悬停显示") |
 | 520  |      *     | Detect Capital                           | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/520.Detect%20Capital/Detect%20Capital.py "悬停显示") | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/520.Detect%20Capital/Detect%20Capital.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/73495803 "悬停显示") |
