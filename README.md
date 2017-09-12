@@ -53,7 +53,7 @@
 | 557  |      *     | Reverse Words in a String III            | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/557.Reverse%20Words%20in%20a%20String%20III/Reverse%20Words%20in%20a%20String%20III.py "悬停显示") | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/557.Reverse%20Words%20in%20a%20String%20III/Reverse%20Words%20in%20a%20String%20III.cpp "悬停显示") | [博客思路讲解](http://blog.csdn.net/c406495762/article/details/73457057 "悬停显示") |
 | 657  |    Easy    | Judge Route Circle                       | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/657.Judge%20Route%20Circle/Judge%20Route%20Circle.py "悬停显示") | no | no |
 | 17   |    Medium   | Letter Combinations of a Phone Number        | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Medium/17.Letter%20Combinations%20of%20a%20Phone%20Number.md "悬停显示") | no | [思路讲解](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Medium/17.Letter%20Combinations%20of%20a%20Phone%20Number.md "悬停显示") |
-
+| 22   |    Medium   | Generate Parentheses                | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Medium/22.Generate%20Parentheses.md "悬停显示") | no | [思路讲解](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Medium/22.Generate%20Parentheses.md "悬停显示") |
 
 ### Tree(树)
 
