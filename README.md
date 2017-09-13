@@ -3,9 +3,17 @@
 * [我的博客](http://blog.csdn.net/c406495762 "悬停显示")<br>
 * LeetCode，持续更新中！<br>
 
+## 帮助文档
+
+帮助文档存放在Help文件夹下。
+
+| 文件名   | 文件描述 |               链接                 | 
+| :---------: | :----------: | :------------------------------: | 
+|complexitypython.txt|Python的一些常规操作的复杂度统计|[URL](https://github.com/Jack-Cherish/LeetCode/blob/master/Help/complexitypython.txt "悬停显示")|
+
 ## 题目清单
 
-* 题目清单根据题目类型、难度进行排序，符号`*`代表与上下表格合并。
+题目清单根据题目类型、难度进行排序，符号`*`代表与上下表格合并。
 
 ### Linked List(链表)
 
