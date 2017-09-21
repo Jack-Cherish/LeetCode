@@ -62,8 +62,8 @@
 | 657  |    Easy    | Judge Route Circle                       | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Easy/657.Judge%20Route%20Circle/Judge%20Route%20Circle.py "悬停显示") | no | no |
 | 5   |    Medium   | Longest Palindromic Substring            | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Medium/5.Longest%20Palindromic%20Substring.md "悬停显示") | no | [思路讲解](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Medium/5.Longest%20Palindromic%20Substring.md "悬停显示") |
 | 17   |       *        | Letter Combinations of a Phone Number        | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Medium/17.Letter%20Combinations%20of%20a%20Phone%20Number.md "悬停显示") | no | [思路讲解](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Medium/17.Letter%20Combinations%20of%20a%20Phone%20Number.md "悬停显示") |
-| 22   |    Medium   | Generate Parentheses                | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Medium/22.Generate%20Parentheses.md "悬停显示") | no | [思路讲解](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Medium/22.Generate%20Parentheses.md "悬停显示") |
-
+| 22   |   *   | Generate Parentheses                | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Medium/22.Generate%20Parentheses.md "悬停显示") | no | [思路讲解](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Medium/22.Generate%20Parentheses.md "悬停显示") |
+| 609  |    Medium   | Find Duplicate File in System              | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Medium/609.Find%20Duplicate%20File%20in%20System.md "悬停显示") | no | [思路讲解](https://github.com/Jack-Cherish/LeetCode/blob/master/String/Medium/609.Find%20Duplicate%20File%20in%20System.md "悬停显示") |
 
 
 ### Tree(树)
