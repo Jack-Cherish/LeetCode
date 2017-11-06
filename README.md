@@ -88,3 +88,9 @@
 | 543  |      *     | Diameter of Binary Tree                  | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/Tree/Easy/543.Diameter%20of%20Binary%20Tree/Diameter%20of%20Binary%20Tree.py "悬停显示") | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Tree/Easy/543.Diameter%20of%20Binary%20Tree/Diameter%20of%20Binary%20Tree.cpp "悬停显示") | no |
 | 606  |    Easy    | Construct String from Binary Tree        | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/Tree/Easy/606.Construct%20String%20from%20Binary%20Tree/Construct%20String%20from%20Binary%20Tree.py "悬停显示") | [C++](https://github.com/Jack-Cherish/LeetCode/blob/master/Tree/Easy/606.Construct%20String%20from%20Binary%20Tree/Construct%20String%20from%20Binary%20Tree.cpp "悬停显示") | no |
 | 113  |   Medium   | Path Sum II                              | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/Tree/Medium/113.Path%20Sum%20II/Path%20Sum%20II.py "悬停显示") | no | no |
+
+### Hash Table(哈希表)
+
+| ID   | Difficulty |                  Title                   |                  Python                  |                   C++                    |                   Blog                   |
+| ---- | :--------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
+| 290  |    Easy    | Word Pattern.mde             | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/Hash%20Table/Easy/290.Word%20Pattern.md "悬停显示") | no | [思路讲解](https://github.com/Jack-Cherish/LeetCode/blob/master/Hash%20Table/Easy/290.Word%20Pattern.md "悬停显示") |
