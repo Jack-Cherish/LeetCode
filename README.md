@@ -2,6 +2,7 @@
 * 贵有恒，何必三更起五更睡；最无益，只怕一日曝十日寒。<br>
 * [我的博客](http://blog.csdn.net/c406495762 "悬停显示")<br>
 * 我的个人网站：[http://cuijiahua.com/](http://cuijiahua.com/ "悬停显示")<br>
+* 公众号：[JackCui-AI](https://mp.weixin.qq.com/s/OCWwRVDFNslIuKyiCVUoTA "JackCui-AI")<br>
 * 分享技术，乐享生活：Jack Cui公众号推送“程序员欢乐送”系列资讯类文章，以及技术类文章，欢迎您的关注！
 <div align="center"><img border="0" src="https://ww2.sinaimg.cn/large/0072Lfvtly1fxuhd2t2jqj309k09kglk.jpg" alt="Coder" title="gongzhonghao" with="200" height="200"></div>
 
