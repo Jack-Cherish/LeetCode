@@ -1,10 +1,10 @@
 # LeetCode
 * 贵有恒，何必三更起五更睡；最无益，只怕一日曝十日寒。<br>
-* [我的博客](http://blog.csdn.net/c406495762 "悬停显示")<br>
-* 我的个人网站：[http://cuijiahua.com/](http://cuijiahua.com/ "悬停显示")<br>
+* [个人网站](https://cuijiahua.com/ "个人网站")<br>
+* 学习交流群：关注公众号，回复交流群，拉你进群！<br>
 * 公众号：[JackCui-AI](https://mp.weixin.qq.com/s/OCWwRVDFNslIuKyiCVUoTA "JackCui-AI")<br>
-* 分享技术，乐享生活：Jack Cui公众号推送“程序员欢乐送”系列资讯类文章，以及技术类文章，欢迎您的关注！
-<div align="center"><img border="0" src="https://ww2.sinaimg.cn/large/0072Lfvtly1fxuhd2t2jqj309k09kglk.jpg" alt="Coder" title="gongzhonghao" with="200" height="200"></div>
+* 分享技术，乐享生活：Jack Cui公众号推送技术类文章，涉及深度学习、网络爬虫、Python基础等，欢迎您的关注！
+<div align="center"><img border="0" src="https://cuijiahua.com/wp-content/uploads/2019/04/gzh-1.jpg" alt="Coder" title="gongzhonghao" with="200" height="200"></div>
 
 ## 帮助文档
 
