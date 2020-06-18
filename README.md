@@ -103,7 +103,7 @@
 | 290  |    Easy    | Word Pattern.mde             | [Python](https://github.com/Jack-Cherish/LeetCode/blob/master/Hash%20Table/Easy/290.Word%20Pattern.md "悬停显示") | no | [思路讲解](https://github.com/Jack-Cherish/LeetCode/blob/master/Hash%20Table/Easy/290.Word%20Pattern.md "悬停显示") |
 
 # 剑指Offer（已完成）
-* 贵有恒，何必三更起五更睡；最无益，只怕一日暴十寒。<br>
+
 * [个人网站](http://cuijiahua.com/ "悬停显示")<br>
 
 ### 链表(8道)：
